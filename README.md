@@ -5,8 +5,12 @@ There are two types of loops- entry controlled loop and exit controlled loop. It
 
 For loop is a entry controlled loop as it checks condition before execution.
 
-#Syntax:-
-#for(intialization;condition;updation)
+Syntax:-
+
+for(intialization;condition;updation)
+
 {
+
 //satements;
+
 }
